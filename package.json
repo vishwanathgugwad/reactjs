@@ -25,10 +25,13 @@
     "core-util-is": "^1.0.2",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.5",
+    "lodash": "^4.17.20",
     "mongoose": "^5.9.25",
     "nodemon": "^2.0.4",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0",
+    "path-parser": "^6.1.0",
+    "redux-form": "^8.3.7",
     "redux-thunk": "^2.3.0",
     "sendgrid": "^5.2.3",
     "stripe": "^8.92.0"
