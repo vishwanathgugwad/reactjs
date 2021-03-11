@@ -15,7 +15,7 @@ module.exports = app => {
       recipients: false
     });
 
-    res.send(surveys);
+    res.send(surveys); 
   });
 
   app.get('/api/surveys/:surveyId/:choice', (req, res) => {
